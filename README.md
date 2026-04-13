@@ -15,9 +15,7 @@ A ideia é manter um acervo organizado, documentado e fácil de integrar em qual
 /codigos
  ├── backend/
  ├── frontend/
- ├── scripts/
- ├── utilitarios/
- └── exemplos/
+ ├── sql_querys/
 ```
 
 Cada pasta contém exemplos prontos e reutilizáveis.
