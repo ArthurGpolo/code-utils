@@ -55,32 +55,3 @@ git clone https://github.com/seu-usuario/nome-do-repo.git
 ```
 
 2. Navegue até o diretório desejado e copie o código necessário para seu projeto.
-
----
-
-## 📸 Demonstração
-
-### Exemplo de uso
-
-![Exemplo de código](https://via.placeholder.com/900x350.png?text=Exemplo+de+Código)
-
----
-
-## 🤝 Contribuição
-
-Sinta-se à vontade para:
-
-* Abrir issues com sugestões
-* Enviar melhorias via Pull Request
-* Compartilhar ideias e boas práticas
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos.
-
----
-
-⭐ Se este repositório te ajudou, deixe uma estrela!
